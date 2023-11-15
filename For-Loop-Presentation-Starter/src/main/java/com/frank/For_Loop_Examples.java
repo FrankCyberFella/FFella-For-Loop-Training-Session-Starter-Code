@@ -105,12 +105,12 @@ public class For_Loop_Examples {
 //
 //        At then end of the loop, the loop variable will be the number of times loop was done
 //
-//        See example in the code
+//        See example in the code below
 // ******************************************************************************************************************/
 
         System.out.println("-".repeat(100) + "\nWelcome to Frank's for-loop Examples\n" + "-".repeat(100));
 
-        int[] charles = {10, 20, 30, 40, 50, 60, 70};
+        int[] charles = {10, 20, 30};
 
         // Processing elements in array without a for-loop
         System.out.println("Array charles contains " + 3 + " elements: "
