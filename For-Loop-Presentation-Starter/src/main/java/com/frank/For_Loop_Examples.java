@@ -1,6 +1,24 @@
 package com.frank;
 
-import java.util.Scanner;
+/************************************************************************************************************
+ *  Note to Teaching Demo Participants:
+ *
+ *  Normally the starter code would have much less code in it.
+ *
+ *  The students would code-along during the presentation to
+ *      the various examples.
+ *
+ *  Many of the comments you see would be done during the code-along.
+ *
+ *  Due to the condensed time of the Teaching Demo, I included
+ *      some code and comments to illustrate what students will get during the session.
+ *
+ *  We will be adding code during the teaching demo.
+ *
+ *  I will be discussing the comments and adding code during the demo.
+ ************************************************************************************************************/
+
+import java.util.Scanner;  // used in the commented out code in the last example
 
 public class For_Loop_Examples {
     public static void main(String[] args) {
@@ -8,7 +26,7 @@ public class For_Loop_Examples {
 //*****************************************************************************************************************
 //
 //  for loop - Used when you need to iterate or count through a series of values
-// 	           It is possible to not execute the loop body even once if the loop
+// 	           It is possible to NOT execute the loop body even once if the loop
 //                            condition is true at the start of the loop
 //
 //             syntax: for (initialization; loop-condition; increment) {
@@ -81,12 +99,12 @@ public class For_Loop_Examples {
 //            // arrayName[i] - fetch the current element from the array
 //        }
 //
-//        Process every 4th element in an array starting at element 0
+//        Process every 4th element in an array starting at first element
 //        for (int i=0; i < arrayName.length; i += 4) {
 //            // arrayName[i] - fetch the current element from the array
 //        }
 //
-//        Process every other element in an array starting at element 3
+//        Process every other element in an array starting at 3rd element
 //        for (int i=3; i < arrayName.length; i += 2) {
 //            // arrayName[i] - fetch the current element from the array
 //        }
