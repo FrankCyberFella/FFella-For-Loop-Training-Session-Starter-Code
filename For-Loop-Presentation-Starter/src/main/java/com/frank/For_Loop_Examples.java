@@ -2,8 +2,8 @@ package com.frank;
 
 /************************************************************************************************************
  *  Note to Teaching Demo Participants:
- *
- *  Normally the starter code would have much less code in it.
+ *  
+ *  Normally the starter code * would have much less code in it.
  *
  *  The students would code-along during the presentation to
  *      the various examples.
