@@ -5,7 +5,7 @@ public class For_Loop_Examples {
     public static void main(String[] args) {
 
 /*******************************************************************************************************************
- * for-loops in Java Starter Code
+ * for-loops in Java training Session Starter Code
  ******************************************************************************************************************/
 
         System.out.println("-".repeat(100) + "\nWelcome to Frank's for-loop Examples\n" + "-".repeat(100));
